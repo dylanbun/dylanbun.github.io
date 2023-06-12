@@ -170,7 +170,7 @@ body {
     }
 
     .gallery-image-container.half-width {
-      width: calc((100% - 34px) / 2);
+      width: calc((100% - 16px) / 2);
     }
 
     .gallery-image {
