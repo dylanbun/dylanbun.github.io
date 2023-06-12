@@ -129,12 +129,6 @@ body {
   height: 50%;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 #project-details {
   display: flex;
   flex-direction: column;
