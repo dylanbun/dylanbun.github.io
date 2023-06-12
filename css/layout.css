@@ -171,6 +171,7 @@ body {
 
     .gallery-image-container.half-width {
       width: calc((100% - 34px) / 2);
+      height: 250px;
     }
 
     .gallery-image {
