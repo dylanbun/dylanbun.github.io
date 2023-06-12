@@ -131,6 +131,11 @@ body {
   justify-content: center;
 }
 
+.centered-image {
+  display: flex;
+  justify-content: center;
+}
+
 #project-details {
   display: flex;
   flex-direction: column;
