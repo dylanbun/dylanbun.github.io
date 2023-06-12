@@ -121,7 +121,7 @@ body {
 #project-header {
   display: flex;
   flex-direction: column;
-  gap: 34px;
+  gap: 16px;
 }
 
 .project-header-image {
